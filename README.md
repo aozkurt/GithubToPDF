@@ -18,7 +18,7 @@ It fetches profile information and repository data from the GitHub API, uses an 
 - Uses AI to generate **short, readable summaries** of those repositories
 - Generates a **single-page PDF** with:
   - Dark theme (dark gray background)
-  - White text and dark blue accents
+  - White text
   - Profile section at the top
   - Repositories displayed in a **2×2 grid** at the bottom
 - Designed for **readability and clean presentation**
