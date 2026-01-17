@@ -2,6 +2,7 @@
 
 <img width="790" height="906" alt="image" src="https://github.com/user-attachments/assets/eafa5e87-a8f1-4c3f-bb0e-0b377874ba9f" />
 
+
 This project generates a **single-page PDF profile** from a GitHub account by combining **GitHub public data** with **AI-generated repository summaries**.
 
 It fetches profile information and repository data from the GitHub API, uses an AI model to summarize selected repositories, and renders everything into a **dark-themed, professional PDF layout**.
