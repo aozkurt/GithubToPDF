@@ -39,4 +39,8 @@ reports/
 # Packaging / build artifacts
 build/
 dist/
+<<<<<<< HEAD
 *.egg-info/
+=======
+*.egg-info/
+>>>>>>> b970d4f (Initial commit)
