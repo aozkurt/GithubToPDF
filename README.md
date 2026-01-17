@@ -6,7 +6,7 @@
 
 This project generates a **single-page PDF profile** from a GitHub account by combining **GitHub public data** with **AI-generated repository summaries**.
 
-It fetches profile information and repository data from the GitHub API, uses an AI model to summarize selected repositories, and renders everything into a **dark-themed, professional PDF layout**.
+It fetches profile information and repository data from the GitHub API, uses an AI model to summarize selected repositories, and renders everything into a **dark-themed PDF layout**.
 
 ---
 
