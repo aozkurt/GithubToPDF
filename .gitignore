@@ -1,0 +1,42 @@
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Python virtual environments
+venv/
+.venv/
+ENV/
+env/
+virtualenv/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated files
+*.pdf
+output/
+generated/
+reports/
+
+# Jupyter / notebooks (if any)
+.ipynb_checkpoints/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
