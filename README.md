@@ -61,5 +61,5 @@ This is required to generate repository summaries.
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/GithubToPDF.git
+git clone https://github.com/aozkurt/GithubToPDF.git
 cd GithubToPDF
