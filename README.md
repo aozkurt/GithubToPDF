@@ -49,9 +49,6 @@ To use this project, you need:
 ### A GitHub account
 You must create a **GitHub Personal Access Token** to authenticate API requests.
 
-Required scope:
-- `public_repo`
-
 ### An OpenAI (ChatGPT) API key
 This is required to generate repository summaries.
 
